@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953914390491",
+    "project_id": "ai-generate-images",
+    "storage_bucket": "ai-generate-images.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953914390491:android:9268843d1904b5c8b1d9fe",
+        "android_client_info": {
+          "package_name": "tuvm.product.dev.ai_generate_images"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmm3ifjXXWQe3too7xWzF-WucYyyXXTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
